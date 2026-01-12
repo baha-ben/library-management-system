@@ -27,18 +27,6 @@ A comprehensive library management system built with Java, demonstrating object-
 - Input validation and error handling
 - Clear display of information and search results
 
-## System Architecture
-
-The project follows a layered architecture pattern with clear separation of concerns:
-
-```
-src/
-├── models/          Layer for data models and entities
-├── services/        Business logic and operations
-├── utils/           Utility classes for console operations
-└── Main.java        Application entry point
-```
-
 ## OOP Concepts Applied
 
 ### Encapsulation
@@ -253,10 +241,4 @@ Potential improvements for the system:
 - Book rating and review system
 - Multiple copies of the same book
 
-## License
-
-This project is created for educational purposes to demonstrate OOP concepts in Java.
-
-## Contact
-
-For questions or suggestions regarding this project, please create an issue in the repository.
+Baha Taki Eddine Ben Abdallah  
